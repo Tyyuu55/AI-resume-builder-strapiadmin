@@ -6,7 +6,6 @@ module.exports = [
     config: {
       origin: [
         'http://localhost:5173',
-        'https://ai-resume-builder-trv5.vercel.app/',
         'https://ai-resume-builder-strapiadmin.onrender.com',
       ],
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
